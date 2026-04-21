@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Vashon High School",
+    "addr": "3035 Cass Ave, St. Louis, MO 63106",
+    "type": "school",
+    "desc": "Historic Black high school (1927). In tornado damage zone.",
+    "src": "https://en.wikipedia.org/wiki/Vashon_High_School",
+    "lat": 38.6477881,
+    "lon": -90.2200563
+  },
+  {
+    "name": "Sumner High School",
+    "addr": "4248 Cottage Ave, St. Louis, MO 63113",
+    "type": "school",
+    "desc": "First Black high school west of the Mississippi (1875). Used as FEMA DRC.",
+    "src": "https://en.wikipedia.org/wiki/Charles_H._Sumner_High_School",
+    "lat": 38.6597913,
+    "lon": -90.2386078
+  },
+  {
+    "name": "Harris-Stowe State University",
+    "addr": "3026 Laclede Ave, St. Louis, MO 63103",
+    "type": "school",
+    "desc": "HBCU. Near tornado path.",
+    "src": "https://en.wikipedia.org/wiki/Harris%E2%80%93Stowe_State_University",
+    "lat": 38.6319049,
+    "lon": -90.2220759
+  },
+  {
+    "name": "Fontbonne University",
+    "addr": "6800 Wydown Blvd, Clayton, MO 63105",
+    "type": "school",
+    "desc": "EF1-EF2 campus damage. Power poles snapped.",
+    "src": "https://www.weather.gov/lsx/05_16_2025",
+    "lat": 38.6431315,
+    "lon": -90.3155097
+  },
+  {
+    "name": "Washington University",
+    "addr": "1 Brookings Dr, St. Louis, MO 63130",
+    "type": "school",
+    "desc": "Trees/fences blown over. MetroLink overhead power damaged.",
+    "src": "https://en.wikipedia.org/wiki/2025_St._Louis_tornado",
+    "lat": 38.6472402,
+    "lon": -90.3084017
+  },
+  {
+    "name": "Centennial Christian Church",
+    "addr": "4950 Fountain Ave, St. Louis, MO 63113",
+    "type": "church",
+    "desc": "Complete roof collapse trapping people. 911 redirected to non-emergency.",
+    "src": "https://en.wikipedia.org/wiki/2025_St._Louis_tornado",
+    "lat": 38.655494,
+    "lon": -90.2617648
+  },
+  {
+    "name": "Union Tabernacle M.B. Church",
+    "addr": "626 N Newstead Ave, St. Louis, MO 63108",
+    "type": "church",
+    "desc": "FEMA Disaster Recovery Center.",
+    "src": "https://www.fema.gov/press-release/20250620/disaster-recovery-centers-opening-city-st-louis",
+    "lat": 38.6452748,
+    "lon": -90.2531967
+  },
+  {
+    "name": "Forest Park",
+    "addr": "Forest Park, St. Louis, MO",
+    "type": "park",
+    "desc": "1,300 acres. Zoo had 10,000 guests \u2014 all survived.",
+    "src": "https://en.wikipedia.org/wiki/2025_St._Louis_tornado",
+    "lat": 38.6381922,
+    "lon": -90.2847033
+  },
+  {
+    "name": "O'Fallon Park",
+    "addr": "4397 W Florissant Ave, St. Louis, MO 63115",
+    "type": "park",
+    "desc": "Townhouses collapsed at park edge. EF2.",
+    "src": "https://www.weather.gov/lsx/05_16_2025",
+    "lat": 38.6808085,
+    "lon": -90.2246316
+  },
+  {
+    "name": "Saint Louis Zoo",
+    "addr": "1 Government Dr, St. Louis, MO 63110",
+    "type": "landmark",
+    "desc": "10,000 guests during tornado. All survived. Butterfly enclosure damaged.",
+    "src": "https://en.wikipedia.org/wiki/2025_St._Louis_tornado",
+    "lat": 38.6351733,
+    "lon": -90.2908598
+  },
+  {
+    "name": "George B. Vashon Museum",
+    "addr": "2223 St. Louis Ave, St. Louis, MO 63106",
+    "type": "landmark",
+    "desc": "African American history museum. 4,000+ artifacts spanning 250 years. Founded by retired educator Calvin Riley in 2015. National Register of Historic Places.",
+    "src": "https://georgevashonmuseum.org/",
+    "lat": 38.6522183,
+    "lon": -90.2060595
+  }
+]
